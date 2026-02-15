@@ -1,0 +1,42 @@
+{
+  "Bản nhạc được cất giấu":{
+    "des":"Nghe  nhạc nền bí mật (1% xuất hiện) phát ở màn hình chính.",
+    "stat":false
+  },
+  "Sự tri ân sâu sắc":{
+    "des":"Xem hết đến cuối phần credits.",
+    "stat":false
+  },
+  "Bạn là người mới à?":{
+    "des":"Chơi trò chơi hướng dẫn.",
+    "stat":false
+  },
+  "Chỉ là ăn may thôi":{
+    "des":"Trả lời đúng một câu hỏi cấp độ 5 (SIÊU KHÓ).",
+    "stat":false
+  },
+  "Mở màn thuận lợi":{
+    "des":"Chiến thắng lần đầu ở CHẾ ĐỘ CỐT TRUYỆN.",
+    "stat":false
+  },
+  "Trận thắng hoàn hảo":{
+    "des":"Chiến thắng và không sai bất kì một câu hỏi nào ở CHẾ ĐỘ CỐT TRUYỆN.",
+    "stat":false
+  },
+  "Tốc biến":{
+    "des":"Không nhận bất kì sát thương nào trong 2 phút.",
+    "stat":false
+  },
+  "Huyền thoại né chiêu":{
+    "des":"Không nhận bất kì sát thương nào trong 7 phút.",
+    "stat":false
+  },
+  "Trận đấu ngoài sức tưởng tượng":{
+    "des":"Hoàn thành bất kì chế độ chơi nào ở CHẾ ĐỘ KHÓ.",
+    "stat":false
+  },
+  "Chạm cỏ đi":{
+    "des":"Hoàn thành tất cả các thành tựu và ra ngoài chạm cỏ. \"Cảm ơn vì đã đến\"",
+    "stat":false
+  }
+}
