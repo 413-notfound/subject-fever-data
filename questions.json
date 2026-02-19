@@ -1,0 +1,3498 @@
+{
+  "q1": {
+    "subj": "math",
+    "diff": "ve",
+    "title": "\\(\\frac{x}{2}=18\\Leftrightarrow x =\\ldots\\)",
+    "options": [
+      {
+        "1": "3",
+        "isCorrect": false
+      },
+      {
+        "2": "6",
+        "isCorrect": false
+      },
+      {
+        "3": "67",
+        "isCorrect": false
+      },
+      {
+        "4": "36",
+        "isCorrect": true
+      }
+    ]
+  },
+  "q2": {
+    "subj": "math",
+    "diff": "ve",
+    "title": "\\(\\sqrt{81}=\\ldots\\)",
+    "options": [
+      {
+        "1": "7",
+        "isCorrect": false
+      },
+      {
+        "2": "8",
+        "isCorrect": false
+      },
+      {
+        "3": "9",
+        "isCorrect": true
+      },
+      {
+        "4": "10",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q3": {
+    "subj": "math",
+    "diff": "e",
+    "title": "\\(\\frac{d}{dx}(x^2)=\\ldots\\)",
+    "options": [
+      {
+        "1": "2x",
+        "isCorrect": true
+      },
+      {
+        "2": "x^3",
+        "isCorrect": false
+      },
+      {
+        "3": "2",
+        "isCorrect": false
+      },
+      {
+        "4": "x",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q4": {
+    "subj": "math",
+    "diff": "ve",
+    "title": "\\(2x-4=0\\Leftrightarrow x=\\ldots\\)",
+    "options": [
+      {
+        "1": "1",
+        "isCorrect": false
+      },
+      {
+        "2": "2",
+        "isCorrect": true
+      },
+      {
+        "3": "3",
+        "isCorrect": false
+      },
+      {
+        "4": "4",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q5": {
+    "subj": "math",
+    "diff": "e",
+    "title": "Diện tích hình tròn bán kính \\(r\\) là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "pi*r<sup>2</sup>",
+        "isCorrect": true
+      },
+      {
+        "2": "2*pi*r",
+        "isCorrect": false
+      },
+      {
+        "3": "pi*d",
+        "isCorrect": false
+      },
+      {
+        "4": "4/3*pi*r<sup>2</sup>",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q6": {
+    "subj": "math",
+    "diff": "e",
+    "title": "\\(\\log_2 8=\\ldots\\)",
+    "options": [
+      {
+        "1": "2",
+        "isCorrect": false
+      },
+      {
+        "2": "3",
+        "isCorrect": true
+      },
+      {
+        "3": "4",
+        "isCorrect": false
+      },
+      {
+        "4": "8",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q7": {
+    "subj": "math",
+    "diff": "ve",
+    "title": "Cho \\(\\triangle ABC\\) vuông tại \\(A\\), \\(\\angle C=60^\\circ\\). \\(\\angle B=\\ldots^\\circ\\)",
+    "options": [
+      {
+        "1": "60",
+        "isCorrect": false
+      },
+      {
+        "2": "30",
+        "isCorrect": true
+      },
+      {
+        "3": "pi/6",
+        "isCorrect": false
+      },
+      {
+        "4": "pi/2",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q8": {
+    "subj": "math",
+    "diff": "ve",
+    "title": "Số \\(\\ldots\\) là số nguyên tố.",
+    "options": [
+      {
+        "1": "4",
+        "isCorrect": false
+      },
+      {
+        "2": "6",
+        "isCorrect": false
+      },
+      {
+        "3": "8",
+        "isCorrect": false
+      },
+      {
+        "4": "7",
+        "isCorrect": true
+      }
+    ]
+  },
+  "q9": {
+    "subj": "math",
+    "diff": "ve",
+    "title": "\\(sin(90^\\circ)=\\ldots\\)",
+    "options": [
+      {
+        "1": "0",
+        "isCorrect": false
+      },
+      {
+        "2": "0.5",
+        "isCorrect": false
+      },
+      {
+        "3": "1",
+        "isCorrect": true
+      },
+      {
+        "4": "√2/2",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q10": {
+    "subj": "math",
+    "diff": "ve",
+    "title": "\\(15*6=\\ldots\\)",
+    "options": [
+      {
+        "1": "80",
+        "isCorrect": false
+      },
+      {
+        "2": "90",
+        "isCorrect": true
+      },
+      {
+        "3": "100",
+        "isCorrect": false
+      },
+      {
+        "4": "110",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q11": {
+    "subj": "math",
+    "diff": "e",
+    "title": "\\(x^2=16\\Leftrightarrow x=\\ldots\\)",
+    "options": [
+      {
+        "1": "±4",
+        "isCorrect": true
+      },
+      {
+        "2": "4",
+        "isCorrect": false
+      },
+      {
+        "3": "±8",
+        "isCorrect": false
+      },
+      {
+        "4": "-4",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q12": {
+    "subj": "math",
+    "diff": "ve",
+    "title": "Số Pi (\\(\\pi\\)) xấp xỉ bằng \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "3.12",
+        "isCorrect": false
+      },
+      {
+        "2": "3.14",
+        "isCorrect": true
+      },
+      {
+        "3": "3.16",
+        "isCorrect": false
+      },
+      {
+        "4": "3.18",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q13": {
+    "subj": "math",
+    "diff": "m",
+    "title": "\\(\\frac{d}{dx}(x^2)=\\ldots\\)",
+    "options": [
+      {
+        "1": "cos(x)",
+        "isCorrect": true
+      },
+      {
+        "2": "-cos(x)",
+        "isCorrect": false
+      },
+      {
+        "3": "tan(x)",
+        "isCorrect": false
+      },
+      {
+        "4": "cot(x)",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q14": {
+    "subj": "math",
+    "diff": "m",
+    "title": "\\(\\int e^x=\\ldots\\)",
+    "options": [
+      {
+        "1": "e<sup>x</sup>+C",
+        "isCorrect": true
+      },
+      {
+        "2": "ln(x)",
+        "isCorrect": false
+      },
+      {
+        "3": "x*e<sup>x</sup>",
+        "isCorrect": false
+      },
+      {
+        "4": "e<sup>x</sup>",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q15": {
+    "subj": "math",
+    "diff": "ve",
+    "title": "Tập hợp các số tự nhiên được ký hiệu là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Z",
+        "isCorrect": false
+      },
+      {
+        "2": "Q",
+        "isCorrect": false
+      },
+      {
+        "3": "R",
+        "isCorrect": false
+      },
+      {
+        "4": "N",
+        "isCorrect": true
+      }
+    ]
+  },
+  "q16": {
+    "subj": "math",
+    "diff": "e",
+    "title": "\\(\\triangle ABC\\) vuông tại \\(A\\) có \\(AB=3(cm)\\), \\(AC=4(cm)\\Rightarrow BC=\\ldots(cm)\\)",
+    "options": [
+      {
+        "1": "-5",
+        "isCorrect": false
+      },
+      {
+        "2": "5",
+        "isCorrect": true
+      },
+      {
+        "3": "6",
+        "isCorrect": false
+      },
+      {
+        "4": "7",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q17": {
+    "subj": "math",
+    "diff": "e",
+    "title": "\\(cos(0^\\circ)=\\ldots\\)",
+    "options": [
+      {
+        "1": "0",
+        "isCorrect": false
+      },
+      {
+        "2": "1",
+        "isCorrect": true
+      },
+      {
+        "3": "0.5",
+        "isCorrect": false
+      },
+      {
+        "4": "√3/2",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q18": {
+    "subj": "math",
+    "diff": "e",
+    "title": "Số \\(\\ldots\\) là số hữu tỉ.",
+    "options": [
+      {
+        "1": "pi",
+        "isCorrect": false
+      },
+      {
+        "2": "√2",
+        "isCorrect": false
+      },
+      {
+        "3": "0.75",
+        "isCorrect": true
+      },
+      {
+        "4": "e",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q19": {
+    "subj": "math",
+    "diff": "m",
+    "title": "Đường thẳng \\(y=ax+b\\) song song với trục hoành khi \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "a>0",
+        "isCorrect": false
+      },
+      {
+        "2": "a=0",
+        "isCorrect": true
+      },
+      {
+        "3": "b=0",
+        "isCorrect": false
+      },
+      {
+        "4": "a<0",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q20": {
+    "subj": "math",
+    "diff": "e",
+    "title": "Thể tích hình lập phương cạnh \\(a\\) là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "a<sup>2</sup>",
+        "isCorrect": false
+      },
+      {
+        "2": "a<sup>3</sup>",
+        "isCorrect": true
+      },
+      {
+        "3": "6a<sup>2</sup>",
+        "isCorrect": false
+      },
+      {
+        "4": "4a",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q21": {
+    "subj": "math",
+    "diff": "m",
+    "title": "Số cách chọn 2 học sinh từ 5 học sinh là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "5",
+        "isCorrect": false
+      },
+      {
+        "2": "10",
+        "isCorrect": true
+      },
+      {
+        "3": "15",
+        "isCorrect": false
+      },
+      {
+        "4": "20",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q22": {
+    "subj": "math",
+    "diff": "m",
+    "title": "Tiệm cận ngang của đồ thị hàm số \\(y=\\frac{2x+1}{x-1}\\) là đường thẳng \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "y=1",
+        "isCorrect": false
+      },
+      {
+        "2": "y=2",
+        "isCorrect": true
+      },
+      {
+        "3": "x=1",
+        "isCorrect": false
+      },
+      {
+        "4": "y=-1",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q23": {
+    "subj": "math",
+    "diff": "m",
+    "title": "\\(\\vec{a}=(1;2)\\), \\(\\vec{b}=(3;4) \\Rightarrow \\vec{a}\\cdot\\vec{b}=\\ldots\\)",
+    "options": [
+      {
+        "1": "10",
+        "isCorrect": false
+      },
+      {
+        "2": "11",
+        "isCorrect": true
+      },
+      {
+        "3": "12",
+        "isCorrect": false
+      },
+      {
+        "4": "13",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q24": {
+    "subj": "math",
+    "diff": "e",
+    "title": "Cho \\(A=\\{3;6;7,9\\}\\), \\(B=\\{5;6;8;9\\}\\). Ta có \\(A\\cap B=\\{a;b\\}\\ (a\\lt b)\\ \\Rightarrow 2a+3b=\\ldots\\)",
+    "options": [
+      {
+        "1": "15",
+        "isCorrect": false
+      },
+      {
+        "2": "39",
+        "isCorrect": true
+      },
+      {
+        "3": "36",
+        "isCorrect": false
+      },
+      {
+        "4": "21",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q25": {
+    "subj": "math",
+    "diff": "m",
+    "title": "Khối bát diện đều có \\(\\ldots\\) mặt.",
+    "options": [
+      {
+        "1": "6",
+        "isCorrect": false
+      },
+      {
+        "2": "8",
+        "isCorrect": true
+      },
+      {
+        "3": "12",
+        "isCorrect": false
+      },
+      {
+        "4": "20",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q26": {
+    "subj": "math",
+    "diff": "m",
+    "title": "\\(\\int ln(x)=\\ldots\\)",
+    "options": [
+      {
+        "1": "1/x",
+        "isCorrect": true
+      },
+      {
+        "2": "e<sup>x</sup>",
+        "isCorrect": false
+      },
+      {
+        "3": "1/x<sup>2</sup>",
+        "isCorrect": false
+      },
+      {
+        "4": "ln(x)",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q27": {
+    "subj": "math",
+    "diff": "e",
+    "title": "Một cấp số cộng có \\(u_1=2\\), \\(d=3\\Rightarrow u_2=\\ldots\\)",
+    "options": [
+      {
+        "1": "4",
+        "isCorrect": false
+      },
+      {
+        "2": "5",
+        "isCorrect": true
+      },
+      {
+        "3": "6",
+        "isCorrect": false
+      },
+      {
+        "4": "7",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q28": {
+    "subj": "math",
+    "diff": "m",
+    "title": "Giá trị cực tiểu của hàm số \\(y=x^2\\) là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "1",
+        "isCorrect": false
+      },
+      {
+        "2": "-1",
+        "isCorrect": false
+      },
+      {
+        "3": "0",
+        "isCorrect": true
+      },
+      {
+        "4": "2",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q29": {
+    "subj": "math",
+    "diff": "m",
+    "title": "Phương trình mặt cầu tâm \\(O(0;0;0)\\) bán kính \\(R=1\\) là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "x<sup>2</sup>+y<sup>2</sup>+z<sup>2</sup>=1",
+        "isCorrect": true
+      },
+      {
+        "2": "x+y+z=1",
+        "isCorrect": false
+      },
+      {
+        "3": "x<sup>2</sup>+y<sup>2</sup>=1",
+        "isCorrect": false
+      },
+      {
+        "4": "x<sup>2</sup>+y<sup>2</sup>+z<sup>2</sup>=0",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q30": {
+    "subj": "math",
+    "diff": "h",
+    "title": "\\(\\lim_{x\\to 0} \\frac{sin(x)}{x}=\\ldots\\)",
+    "options": [
+      {
+        "1": "0",
+        "isCorrect": false
+      },
+      {
+        "2": "1",
+        "isCorrect": true
+      },
+      {
+        "3": "+inf",
+        "isCorrect": false
+      },
+      {
+        "4": "-1",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q31": {
+    "subj": "math",
+    "diff": "h",
+    "title": "Phương trình \\(x^2-2x+m=0\\) có nghiệm kép \\(\\Leftrightarrow m=\\ldots\\)",
+    "options": [
+      {
+        "1": "m=0",
+        "isCorrect": false
+      },
+      {
+        "2": "m=1",
+        "isCorrect": true
+      },
+      {
+        "3": "m=-1",
+        "isCorrect": false
+      },
+      {
+        "4": "m=2",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q32": {
+    "subj": "physics",
+    "diff": "ve",
+    "title": "Đơn vị của lực là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Watt",
+        "isCorrect": false
+      },
+      {
+        "2": "Joule",
+        "isCorrect": false
+      },
+      {
+        "3": "Newton",
+        "isCorrect": true
+      },
+      {
+        "4": "Pascal",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q33": {
+    "subj": "physics",
+    "diff": "e",
+    "title": "Công thức định luật II Newton là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "F = ma",
+        "isCorrect": true
+      },
+      {
+        "2": "P = mv",
+        "isCorrect": false
+      },
+      {
+        "3": "F = m/a",
+        "isCorrect": false
+      },
+      {
+        "4": "v = s/t",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q34": {
+    "subj": "physics",
+    "diff": "e",
+    "title": "Vận tốc âm thanh trong không khí (ở \\(20^\\circ C\\)) xấp xỉ \\(\\ldots(m/s)\\)",
+    "options": [
+      {
+        "1": "100",
+        "isCorrect": false
+      },
+      {
+        "2": "340",
+        "isCorrect": true
+      },
+      {
+        "3": "1000",
+        "isCorrect": false
+      },
+      {
+        "4": "300000",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q35": {
+    "subj": "physics",
+    "diff": "ve",
+    "title": "Đơn vị của hiệu điện thế là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Ampere",
+        "isCorrect": false
+      },
+      {
+        "2": "Ohm",
+        "isCorrect": false
+      },
+      {
+        "3": "Volt",
+        "isCorrect": true
+      },
+      {
+        "4": "Watt",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q36": {
+    "subj": "physics",
+    "diff": "m",
+    "title": "Cường độ dòng điện trong mạch không phân nhánh có dạng \\(i=2\\sqrt{2}cos(100\\pi t) (A)\\) thì cường độ dòng điện hiệu dụng xấp xỉ \\(\\ldots (A)\\)",
+    "options": [
+      {
+        "1": "4",
+        "isCorrect": false
+      },
+      {
+        "2": "2.83",
+        "isCorrect": true
+      },
+      {
+        "3": "2",
+        "isCorrect": false
+      },
+      {
+        "4": "1.41",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q37": {
+    "subj": "physics",
+    "diff": "ve",
+    "title": "Trọng lực trên Trái Đất xấp xỉ \\(\\ldots(m/s^2)\\)",
+    "options": [
+      {
+        "1": "5",
+        "isCorrect": false
+      },
+      {
+        "2": "9.8",
+        "isCorrect": true
+      },
+      {
+        "3": "15",
+        "isCorrect": false
+      },
+      {
+        "4": "20",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q38": {
+    "subj": "physics",
+    "diff": "e",
+    "title": "Công thức định luật Ohm là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "R=U/I",
+        "isCorrect": true
+      },
+      {
+        "2": "R=UI",
+        "isCorrect": false
+      },
+      {
+        "3": "R=I/U",
+        "isCorrect": false
+      },
+      {
+        "4": "P=UI",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q39": {
+    "subj": "physics",
+    "diff": "ve",
+    "title": "Đơn vị của công suất là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Joule",
+        "isCorrect": false
+      },
+      {
+        "2": "Newton",
+        "isCorrect": false
+      },
+      {
+        "3": "Watt",
+        "isCorrect": true
+      },
+      {
+        "4": "Tesla",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q40": {
+    "subj": "physics",
+    "diff": "m",
+    "title": "Cảm ứng từ tại điểm \\(M\\) cách dây dẫn thẳng dài vô hạn mang dòng điện \\(I\\) một khoảng \\(r\\) được tính theo công thức \\(B=a*10^{-b}*\\frac{I}{r}\\). Vậy \\(a+b=\\ldots\\)",
+    "options": [
+      {
+        "1": "8",
+        "isCorrect": false
+      },
+      {
+        "2": "9",
+        "isCorrect": true
+      },
+      {
+        "3": "6",
+        "isCorrect": false
+      },
+      {
+        "4": "7",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q41": {
+    "subj": "physics",
+    "diff": "ve",
+    "title": "Đơn vị của tần số là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Second",
+        "isCorrect": false
+      },
+      {
+        "2": "Hertz",
+        "isCorrect": true
+      },
+      {
+        "3": "Meter",
+        "isCorrect": false
+      },
+      {
+        "4": "Kilogram",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q42": {
+    "subj": "physics",
+    "diff": "e",
+    "title": "Công thức động năng là \\(E_d=\\ldots\\)",
+    "options": [
+      {
+        "1": "1/2*mv<sup>2</sup>",
+        "isCorrect": true
+      },
+      {
+        "2": "mgh",
+        "isCorrect": false
+      },
+      {
+        "3": "mv",
+        "isCorrect": false
+      },
+      {
+        "4": "1/2*kx<sup>2</sup>",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q43": {
+    "subj": "physics",
+    "diff": "ve",
+    "title": "Công thức tính quãng đường \\(s\\) theo vận tốc \\(v\\) và thời gian \\(t\\) là \\(s=\\ldots\\)",
+    "options": [
+      {
+        "1": "vt",
+        "isCorrect": true
+      },
+      {
+        "2": "v/t",
+        "isCorrect": false
+      },
+      {
+        "3": "v<sup>t</sup>",
+        "isCorrect": false
+      },
+      {
+        "4": "v+t",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q44": {
+    "subj": "physics",
+    "diff": "e",
+    "title": "Nhiệt độ tuyệt đối (Kelvin) bằng thang độ C cộng thêm \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "100",
+        "isCorrect": false
+      },
+      {
+        "2": "273",
+        "isCorrect": true
+      },
+      {
+        "3": "373",
+        "isCorrect": false
+      },
+      {
+        "4": "0",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q45": {
+    "subj": "physics",
+    "diff": "m",
+    "title": "Một vật rơi tự do có vận tốc \\(v\\) tỉ lệ thuận với \\(\\ldots\\) (Cho \\(s\\) là quãng đường rơi, \\(t\\) là thời gian rơi, \\(m\\) là khối lượng vật, \\(T\\) là nhiệt độ môi trường).",
+    "options": [
+      {
+        "1": "m",
+        "isCorrect": false
+      },
+      {
+        "2": "t",
+        "isCorrect": true
+      },
+      {
+        "3": "s",
+        "isCorrect": false
+      },
+      {
+        "4": "T",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q46": {
+    "subj": "physics",
+    "diff": "ve",
+    "title": "Đơn vị của cường độ dòng điện là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Ampere",
+        "isCorrect": true
+      },
+      {
+        "2": "Volt",
+        "isCorrect": false
+      },
+      {
+        "3": "Ohm",
+        "isCorrect": false
+      },
+      {
+        "4": "Farad",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q47": {
+    "subj": "physics",
+    "diff": "e",
+    "title": "Công thức tính áp suất \\(P\\) là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "F/S",
+        "isCorrect": true
+      },
+      {
+        "2": "S/F",
+        "isCorrect": false
+      },
+      {
+        "3": "F.S",
+        "isCorrect": false
+      },
+      {
+        "4": "m/V",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q48": {
+    "subj": "physics",
+    "diff": "m",
+    "title": "Lực đẩy Archimedes \\(F_A\\) phụ thuộc vào \\(\\ldots\\) (Cho \\(P\\) là trọng lượng vật, \\(V\\) là thể tích phần chất lỏng bị chiếm chỗ, \\(S\\) là hình dạng vật, \\(d\\) là độ sâu của vật).",
+    "options": [
+      {
+        "1": "P",
+        "isCorrect": false
+      },
+      {
+        "2": "V",
+        "isCorrect": true
+      },
+      {
+        "3": "S",
+        "isCorrect": false
+      },
+      {
+        "4": "d",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q49": {
+    "subj": "physics",
+    "diff": "m",
+    "title": "Ký hiệu của hằng số điện môi là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "epsilon",
+        "isCorrect": true
+      },
+      {
+        "2": "mu",
+        "isCorrect": false
+      },
+      {
+        "3": "lambda",
+        "isCorrect": false
+      },
+      {
+        "4": "phi",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q50": {
+    "subj": "physics",
+    "diff": "e",
+    "title": "Trong quá trình nén đẳng tích, biểu thức \\(p/T=\\ldots\\)",
+    "options": [
+      {
+        "1": "0",
+        "isCorrect": false
+      },
+      {
+        "2": "1",
+        "isCorrect": false
+      },
+      {
+        "3": "const",
+        "isCorrect": true
+      },
+      {
+        "4": "infinity",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q51": {
+    "subj": "physics",
+    "diff": "m",
+    "title": "Nén đẳng nhiệt một khối khí với \\(V_0=1(l)\\) và \\(p_0=1(atm)\\) đến thể tích \\(V=0.5(l)\\) thì áp suất mới \\(p\\) bằng \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "1.5",
+        "isCorrect": false
+      },
+      {
+        "2": "2",
+        "isCorrect": true
+      },
+      {
+        "3": "0.5",
+        "isCorrect": false
+      },
+      {
+        "4": "0",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q52": {
+    "subj": "physics",
+    "diff": "h",
+    "title": "Quang phổ liên tục phụ thuộc vào \\(\\ldots\\) (Cho \\(m\\) là khối lượng vật phát quang, \\(T\\) là nhiệt độ vật phát quang, \\(V\\) là thể tích vật phát quang, \\(S\\) là kích thước vật phát quang).",
+    "options": [
+      {
+        "1": "m",
+        "isCorrect": false
+      },
+      {
+        "2": "T",
+        "isCorrect": true
+      },
+      {
+        "3": "V",
+        "isCorrect": false
+      },
+      {
+        "4": "S",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q53": {
+    "subj": "physics",
+    "diff": "m",
+    "title": "Đơn vị của điện dung là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Henry",
+        "isCorrect": false
+      },
+      {
+        "2": "Farad",
+        "isCorrect": true
+      },
+      {
+        "3": "Ohm",
+        "isCorrect": false
+      },
+      {
+        "4": "Tesla",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q54": {
+    "subj": "physics",
+    "diff": "e",
+    "title": "Hạt nhân nguyên tử cấu tạo gồm \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Electron, Proton",
+        "isCorrect": false
+      },
+      {
+        "2": "Proton, Neutron",
+        "isCorrect": true
+      },
+      {
+        "3": "Electron, Neutron",
+        "isCorrect": false
+      },
+      {
+        "4": "Proton",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q55": {
+    "subj": "physics",
+    "diff": "e",
+    "title": "Lực tương tác giữa hai điện tích điểm gọi là lực \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Newton",
+        "isCorrect": false
+      },
+      {
+        "2": "Coulomb",
+        "isCorrect": true
+      },
+      {
+        "3": "Lorentz",
+        "isCorrect": false
+      },
+      {
+        "4": "Ampe",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q56": {
+    "subj": "physics",
+    "diff": "e",
+    "title": "Trong chuyển động tròn đều, vận tốc \\(v=\\ldots\\)",
+    "options": [
+      {
+        "1": "0",
+        "isCorrect": false
+      },
+      {
+        "2": "const",
+        "isCorrect": true
+      },
+      {
+        "3": "cos(omega*t)",
+        "isCorrect": false
+      },
+      {
+        "4": "omega*r",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q57": {
+    "subj": "physics",
+    "diff": "m",
+    "title": "Đơn vị của từ thông là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Tesla",
+        "isCorrect": false
+      },
+      {
+        "2": "Weber",
+        "isCorrect": true
+      },
+      {
+        "3": "Henry",
+        "isCorrect": false
+      },
+      {
+        "4": "Gauss",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q58": {
+    "subj": "physics",
+    "diff": "m",
+    "title": "Chu kỳ của con lắc đơn phụ thuộc vào \\(\\ldots\\) (Cho \\(m\\) là khối lượng vật nặng, \\(l\\) là chiều dài dây treo, \\(A\\) là biên độ góc dao động, \\(T\\) là nhiệt độ môi trường).",
+    "options": [
+      {
+        "1": "m",
+        "isCorrect": false
+      },
+      {
+        "2": "l",
+        "isCorrect": true
+      },
+      {
+        "3": "A",
+        "isCorrect": false
+      },
+      {
+        "4": "T",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q59": {
+    "subj": "physics",
+    "diff": "e",
+    "title": "Một vật có khối lượng \\(1(kg)\\), vận tốc \\(2(m/s)\\) thì động lượng là \\(\\ldots (kg*m/s)\\)",
+    "options": [
+      {
+        "1": "1",
+        "isCorrect": false
+      },
+      {
+        "2": "2",
+        "isCorrect": true
+      },
+      {
+        "3": "3",
+        "isCorrect": false
+      },
+      {
+        "4": "4",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q60": {
+    "subj": "physics",
+    "diff": "m",
+    "title": "Tia \\(\\ldots\\) có khả năng đâm xuyên mạnh nhất.",
+    "options": [
+      {
+        "1": "Alpha",
+        "isCorrect": false
+      },
+      {
+        "2": "Beta",
+        "isCorrect": false
+      },
+      {
+        "3": "Gamma",
+        "isCorrect": true
+      },
+      {
+        "4": "Delta",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q61": {
+    "subj": "physics",
+    "diff": "e",
+    "title": "Công thức thế năng trọng trường là \\(W_t=\\ldots\\)",
+    "options": [
+      {
+        "1": "mgh",
+        "isCorrect": true
+      },
+      {
+        "2": "1/2*mv<sup>2</sup>",
+        "isCorrect": false
+      },
+      {
+        "3": "mv",
+        "isCorrect": false
+      },
+      {
+        "4": "Fs",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q62": {
+    "subj": "physics",
+    "diff": "e",
+    "title": "Đại lượng đặc trưng cho mức độ quán tính của vật là \\(\\ldots\\) (Cho \\(v\\) là vận tốc, \\(m\\) là khối lượng, \\(F\\) là lực tác dụng lên vật, \\(a\\) là gia tốc).",
+    "options": [
+      {
+        "1": "v",
+        "isCorrect": false
+      },
+      {
+        "2": "m",
+        "isCorrect": true
+      },
+      {
+        "3": "F",
+        "isCorrect": false
+      },
+      {
+        "4": "a",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q63": {
+    "subj": "physics",
+    "diff": "ve",
+    "title": "Đơn vị của nhiệt lượng là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Watt",
+        "isCorrect": false
+      },
+      {
+        "2": "Joule",
+        "isCorrect": true
+      },
+      {
+        "3": "Newton",
+        "isCorrect": false
+      },
+      {
+        "4": "Hertz",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q64": {
+    "subj": "chemistry",
+    "diff": "ve",
+    "title": "Ký hiệu hóa học của sắt là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "S",
+        "isCorrect": false
+      },
+      {
+        "2": "Fe",
+        "isCorrect": true
+      },
+      {
+        "3": "Ag",
+        "isCorrect": false
+      },
+      {
+        "4": "Au",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q65": {
+    "subj": "chemistry",
+    "diff": "ve",
+    "title": "Nước có công thức hóa học là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "CO<sub>2</sub>",
+        "isCorrect": false
+      },
+      {
+        "2": "H<sub>2</sub>O",
+        "isCorrect": true
+      },
+      {
+        "3": "O<sub>2</sub>",
+        "isCorrect": false
+      },
+      {
+        "4": "H<sub>2</sub>",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q66": {
+    "subj": "chemistry",
+    "diff": "e",
+    "title": "Khí \\(\\ldots\\) chiếm tỉ lệ lớn nhất trong không khí.",
+    "options": [
+      {
+        "1": "Oxygen",
+        "isCorrect": false
+      },
+      {
+        "2": "Nitrogen",
+        "isCorrect": true
+      },
+      {
+        "3": "Carbonic anhydride",
+        "isCorrect": false
+      },
+      {
+        "4": "Hydrogen",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q67": {
+    "subj": "chemistry",
+    "diff": "ve",
+    "title": "\\(pH\\lt 7\\) là môi trường \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Acid",
+        "isCorrect": true
+      },
+      {
+        "2": "Base",
+        "isCorrect": false
+      },
+      {
+        "3": "H<sub>2</sub>O",
+        "isCorrect": false
+      },
+      {
+        "4": "Schwartz",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q68": {
+    "subj": "chemistry",
+    "diff": "e",
+    "title": "Kim loại \\(\\ldots\\) tồn tại ở thể lỏng ở nhiệt độ thường.",
+    "options": [
+      {
+        "1": "Fe",
+        "isCorrect": false
+      },
+      {
+        "2": "Au",
+        "isCorrect": false
+      },
+      {
+        "3": "Ag",
+        "isCorrect": false
+      },
+      {
+        "4": "Hg",
+        "isCorrect": true
+      }
+    ]
+  },
+  "q69": {
+    "subj": "chemistry",
+    "diff": "ve",
+    "title": "Nguyên tử khối của nguyên tử Oxygen là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "32",
+        "isCorrect": false
+      },
+      {
+        "2": "12",
+        "isCorrect": false
+      },
+      {
+        "3": "29",
+        "isCorrect": false
+      },
+      {
+        "4": "16",
+        "isCorrect": true
+      }
+    ]
+  },
+  "q70": {
+    "subj": "chemistry",
+    "diff": "e",
+    "title": "Acid sulfuric có công thức là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "HCl",
+        "isCorrect": false
+      },
+      {
+        "2": "H<sub>2</sub>SO<sub>4</sub>",
+        "isCorrect": true
+      },
+      {
+        "3": "HNO<sub>3</sub>",
+        "isCorrect": false
+      },
+      {
+        "4": "H<sub>3</sub>PO<sub>4</sub>",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q71": {
+    "subj": "chemistry",
+    "diff": "e",
+    "title": "Phản ứng giữa HCl và base tạo ra sản phẩm là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Oxygen, H<sub>2</sub>O",
+        "isCorrect": false
+      },
+      {
+        "2": "RCl, H<sub>2</sub>O",
+        "isCorrect": true
+      },
+      {
+        "3": "Cl<sub>2</sub>",
+        "isCorrect": false
+      },
+      {
+        "4": "HOH",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q72": {
+    "subj": "chemistry",
+    "diff": "e",
+    "title": "Kim loại dẫn điện tốt nhất là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Au",
+        "isCorrect": false
+      },
+      {
+        "2": "Cu",
+        "isCorrect": false
+      },
+      {
+        "3": "Fe",
+        "isCorrect": false
+      },
+      {
+        "4": "Ag",
+        "isCorrect": true
+      }
+    ]
+  },
+  "q73": {
+    "subj": "chemistry",
+    "diff": "e",
+    "title": "Khí \\(ldots\\) làm đục nước vôi trong.",
+    "options": [
+      {
+        "1": "O<sub>2</sub>",
+        "isCorrect": false
+      },
+      {
+        "2": "CO<sub>2</sub>",
+        "isCorrect": true
+      },
+      {
+        "3": "N<sub>2</sub>",
+        "isCorrect": false
+      },
+      {
+        "4": "H<sub>2</sub>",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q74": {
+    "subj": "chemistry",
+    "diff": "e",
+    "title": "Nhóm \\(\\ldots\\) trong bảng tuần hoàn gọi là nhóm halogen.",
+    "options": [
+      {
+        "1": "IIIA",
+        "isCorrect": false
+      },
+      {
+        "2": "IB",
+        "isCorrect": false
+      },
+      {
+        "3": "VIIA",
+        "isCorrect": true
+      },
+      {
+        "4": "VIIIB",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q75": {
+    "subj": "chemistry",
+    "diff": "m",
+    "title": "Phân tử khối của \\(\\ce{NaCl}\\) là \\(\\ldots (g/mol)\\)",
+    "options": [
+      {
+        "1": "35.5",
+        "isCorrect": false
+      },
+      {
+        "2": "23",
+        "isCorrect": false
+      },
+      {
+        "3": "58.5",
+        "isCorrect": true
+      },
+      {
+        "4": "40",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q76": {
+    "subj": "chemistry",
+    "diff": "m",
+    "title": "Nguyên tố phổ biến nhất trong vũ trụ là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Oxygen",
+        "isCorrect": false
+      },
+      {
+        "2": "Helium",
+        "isCorrect": false
+      },
+      {
+        "3": "Carbon",
+        "isCorrect": false
+      },
+      {
+        "4": "Hydrogen",
+        "isCorrect": true
+      }
+    ]
+  },
+  "q77": {
+    "subj": "chemistry",
+    "diff": "m",
+    "title": "Có bao nhiêu liên kết \\(\\pi\\) trong chất có công thức hóa học \\(\\ce{C17H31COOH}\\)?",
+    "options": [
+      {
+        "1": "3",
+        "isCorrect": false
+      },
+      {
+        "2": "4",
+        "isCorrect": true
+      },
+      {
+        "3": "6",
+        "isCorrect": false
+      },
+      {
+        "4": "2",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q78": {
+    "subj": "physics",
+    "diff": "m",
+    "title": "Số Avogadro có giá trị xấp xỉ?",
+    "options": [
+      {
+        "1": "6.022*10<sup>23</sup>",
+        "isCorrect": true
+      },
+      {
+        "2": "6.625*10<sup>-34</sup>",
+        "isCorrect": false
+      },
+      {
+        "3": "3*10<sup>8</sup>",
+        "isCorrect": false
+      },
+      {
+        "4": "9.1*10<sup>-31</sup>",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q79": {
+    "subj": "chemistry",
+    "diff": "e",
+    "title": "Methane có công thức hóa học là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "C<sub>2</sub>H<sub>2</sub>",
+        "isCorrect": false
+      },
+      {
+        "2": "C<sub>2</sub>H<sub>4</sub>",
+        "isCorrect": false
+      },
+      {
+        "3": "CH<sub>4</sub>",
+        "isCorrect": true
+      },
+      {
+        "4": "C<sub>6</sub>H<sub>6</sub>",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q80": {
+    "subj": "chemistry",
+    "diff": "e",
+    "title": "Kim loại \\(\\ldots\\) tan được trong nước.",
+    "options": [
+      {
+        "1": "Mg",
+        "isCorrect": false
+      },
+      {
+        "2": "K",
+        "isCorrect": true
+      },
+      {
+        "3": "Ag",
+        "isCorrect": false
+      },
+      {
+        "4": "Hg",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q81": {
+    "subj": "chemistry",
+    "diff": "m",
+    "title": "Alcohol ethylic có công thức là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "CH<sub>3</sub>OH",
+        "isCorrect": false
+      },
+      {
+        "2": "C<sub>2</sub>H<sub>5</sub>OH",
+        "isCorrect": true
+      },
+      {
+        "3": "CH<sub>3</sub>COOH",
+        "isCorrect": false
+      },
+      {
+        "4": "C<sub>3</sub>H<sub>7</sub>OH",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q82": {
+    "subj": "chemistry",
+    "diff": "m",
+    "title": "Nguyên tố \\(\\ldots\\) được gọi là \"vua của các hóa chất\".",
+    "options": [
+      {
+        "1": "O<sub>2</sub>",
+        "isCorrect": false
+      },
+      {
+        "2": "S",
+        "isCorrect": true
+      },
+      {
+        "3": "Fe",
+        "isCorrect": false
+      },
+      {
+        "4": "Au",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q83": {
+    "subj": "chemistry",
+    "diff": "m",
+    "title": "Glucose có công thức phân tử là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>",
+        "isCorrect": false
+      },
+      {
+        "2": "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+        "isCorrect": true
+      },
+      {
+        "3": "C<sub>6</sub>H<sub>6</sub>",
+        "isCorrect": false
+      },
+      {
+        "4": "CH<sub>3</sub>COOH",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q84": {
+    "subj": "chemistry",
+    "diff": "h",
+    "title": "Polymer \\(\\ldots\\) dùng làm tơ tằm nhân tạo.",
+    "options": [
+      {
+        "1": "Nylon-6",
+        "isCorrect": false
+      },
+      {
+        "2": "Visco",
+        "isCorrect": true
+      },
+      {
+        "3": "PE",
+        "isCorrect": false
+      },
+      {
+        "4": "PVC",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q85": {
+    "subj": "chemistry",
+    "diff": "vh",
+    "title": "Phương trình chuẩn độ \\(\\ce{Fe^{2+}}\\) bằng thuốc tím: \\(\\ce{5Fe^{2+} + MnO4^- + a H^+ -> b Fe^{3+} + Mn^{2+} + 4H2O}\\). Giá trị của \\(a+b=\\ldots\\)",
+    "options": [
+      {
+        "1": "9",
+        "isCorrect": false
+      },
+      {
+        "2": "13",
+        "isCorrect": true
+      },
+      {
+        "3": "10",
+        "isCorrect": false
+      },
+      {
+        "4": "18",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q86": {
+    "subj": "chemistry",
+    "diff": "e",
+    "title": "Khối lượng mol của \\(\\ce{CO2}\\) là \\(\\ldots (g/mol)\\)",
+    "options": [
+      {
+        "1": "28",
+        "isCorrect": false
+      },
+      {
+        "2": "32",
+        "isCorrect": false
+      },
+      {
+        "3": "44",
+        "isCorrect": true
+      },
+      {
+        "4": "56",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q87": {
+    "subj": "chemistry",
+    "diff": "e",
+    "title": "Kim loại kiềm thuộc nhóm \\(\\ldots\\) trong bảng tuần hoàn hóa học.",
+    "options": [
+      {
+        "1": "IA",
+        "isCorrect": true
+      },
+      {
+        "2": "IIA",
+        "isCorrect": false
+      },
+      {
+        "3": "IIIA",
+        "isCorrect": false
+      },
+      {
+        "4": "IVA",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q88": {
+    "subj": "chemistry",
+    "diff": "e",
+    "title": "Thuốc thử để nhận biết hồ tinh bột là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Cu(OH)<sub>2</sub>",
+        "isCorrect": false
+      },
+      {
+        "2": "Iodine",
+        "isCorrect": true
+      },
+      {
+        "3": "AgNO<sub>3</sub>",
+        "isCorrect": false
+      },
+      {
+        "4": "Ethanol",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q89": {
+    "subj": "chemistry",
+    "diff": "h",
+    "title": "Benzene có \\(\\ldots\\) liên kết đôi trong vòng.",
+    "options": [
+      {
+        "1": "1",
+        "isCorrect": false
+      },
+      {
+        "2": "2",
+        "isCorrect": false
+      },
+      {
+        "3": "3",
+        "isCorrect": true
+      },
+      {
+        "4": "4",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q90": {
+    "subj": "chemistry",
+    "diff": "h",
+    "title": "Ester có mùi chuối chín là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Ethyl acetate",
+        "isCorrect": false
+      },
+      {
+        "2": "Isoamyl acetate",
+        "isCorrect": true
+      },
+      {
+        "3": "Benzyl acetate",
+        "isCorrect": false
+      },
+      {
+        "4": "Methyl fomate",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q91": {
+    "subj": "chemistry",
+    "diff": "h",
+    "title": "Amino acid đơn giản nhất là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Alanine",
+        "isCorrect": false
+      },
+      {
+        "2": "Glycine",
+        "isCorrect": true
+      },
+      {
+        "3": "Valine",
+        "isCorrect": false
+      },
+      {
+        "4": "Lysine",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q92": {
+    "subj": "chemistry",
+    "diff": "h",
+    "title": "Quặng hematit có thành phần chính là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Fe<sub>2</sub>O<sub>3</sub>",
+        "isCorrect": true
+      },
+      {
+        "2": "Fe<sub>3</sub>O<sub>4</sub>",
+        "isCorrect": false
+      },
+      {
+        "3": "FeS<sub>2</sub>",
+        "isCorrect": false
+      },
+      {
+        "4": "FeCO<sub>3</sub>",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q93": {
+    "subj": "chemistry",
+    "diff": "e",
+    "title": "Khí \\(\\ldots\\) chủ yếu gây ra hiệu ứng nhà kính.",
+    "options": [
+      {
+        "1": "O<sub>2</sub>",
+        "isCorrect": false
+      },
+      {
+        "2": "N<sub>2</sub>",
+        "isCorrect": false
+      },
+      {
+        "3": "CO<sub>2</sub>",
+        "isCorrect": true
+      },
+      {
+        "4": "Ar",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q94": {
+    "subj": "chemistry",
+    "diff": "e",
+    "title": "Dung dịch làm quỳ tím hóa xanh là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "Acid",
+        "isCorrect": false
+      },
+      {
+        "2": "Base",
+        "isCorrect": true
+      },
+      {
+        "3": "H<sub>2</sub>O",
+        "isCorrect": false
+      },
+      {
+        "4": "NaCl",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q95": {
+    "subj": "chemistry",
+    "diff": "e",
+    "title": "Công thức hóa học của đá vôi là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "CaO",
+        "isCorrect": false
+      },
+      {
+        "2": "Ca(OH)<sub>2</sub>",
+        "isCorrect": false
+      },
+      {
+        "3": "CaCO<sub>3</sub>",
+        "isCorrect": true
+      },
+      {
+        "4": "CaCl<sub>2</sub>",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q96": {
+    "subj": "math",
+    "diff": "vh",
+    "title": "Giá trị của tích phân \\(I=\\int_0^\\pi \\frac{xsin(x)}{1+cos^2(x)}\\) là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "pi<sup>2</sup>/2",
+        "isCorrect": false
+      },
+      {
+        "2": "pi<sup>2</sup>/4",
+        "isCorrect": true
+      },
+      {
+        "3": "pi/4",
+        "isCorrect": false
+      },
+      {
+        "4": "pi<sup>2</sup>",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q97": {
+    "subj": "math",
+    "diff": "vh",
+    "title": "Cho phương trình hàm \\(f(f(n))+f(n)=2n+3\\). \\(f(2025)=\\ldots\\)",
+    "options": [
+      {
+        "1": "2025",
+        "isCorrect": false
+      },
+      {
+        "2": "2026",
+        "isCorrect": false
+      },
+      {
+        "3": "2028",
+        "isCorrect": true
+      },
+      {
+        "4": "2030",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q98": {
+    "subj": "math",
+    "diff": "vh",
+    "title": "Số các ước nguyên dương của số \\(n=2^{10}*3^5*5^2\\) mà không phải là số chính phương là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "198",
+        "isCorrect": false
+      },
+      {
+        "2": "132",
+        "isCorrect": true
+      },
+      {
+        "3": "66",
+        "isCorrect": false
+      },
+      {
+        "4": "120",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q99": {
+    "subj": "math",
+    "diff": "vh",
+    "title": "Trong không gian Oxyz, mặt cầu \\((S)\\) tiếp xúc với cả 3 mặt phẳng tọa độ và đường thẳng \\(d\\) có tối đa \\(\\ldots\\) mặt cầu thỏa mãn.",
+    "options": [
+      {
+        "1": "2",
+        "isCorrect": false
+      },
+      {
+        "2": "4",
+        "isCorrect": false
+      },
+      {
+        "3": "6",
+        "isCorrect": false
+      },
+      {
+        "4": "8",
+        "isCorrect": true
+      }
+    ]
+  },
+  "q100": {
+    "subj": "math",
+    "diff": "vh",
+    "title": "\\(|z-1|=|z-i|\\) và \\(T_{min}=|z-3i|+|z-4|\\) (với \\(z\\) là số phức) \\(\\Leftrightarrow z=\\ldots\\)",
+    "options": [
+      {
+        "1": "1.75+1.75i",
+        "isCorrect": true
+      },
+      {
+        "2": "2+2i",
+        "isCorrect": false
+      },
+      {
+        "3": "1+i",
+        "isCorrect": false
+      },
+      {
+        "4": "2.5+2.5i",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q101": {
+    "subj": "physics",
+    "diff": "vh",
+    "title": "Một hạt chuyển động tương đối tính có động năng bằng năng lượng nghỉ của nó. Vận tốc của hạt bằng bao nhiêu?",
+    "options": [
+      {
+        "1": "0.5c",
+        "isCorrect": false
+      },
+      {
+        "2": "c√(3)/2",
+        "isCorrect": true
+      },
+      {
+        "3": "c√(2)/2",
+        "isCorrect": false
+      },
+      {
+        "4": "0.8c",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q102": {
+    "subj": "physics",
+    "diff": "vh",
+    "title": "Trong thí nghiệm giao thoa Young, hệ vân dịch chuyển một khoảng \\(\\ldots\\) khi thay đổi bản mặt song song.",
+    "options": [
+      {
+        "1": "x<sub>0</sub>",
+        "isCorrect": false
+      },
+      {
+        "2": "x<sub>0</sub>(n-2)/(n-1)",
+        "isCorrect": true
+      },
+      {
+        "3": "2x<sub>0</sub>",
+        "isCorrect": false
+      },
+      {
+        "4": "x<sub>0</sub>/2",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q103": {
+    "subj": "physics",
+    "diff": "vh",
+    "title": "Khung dây dẫn quay đều trong từ trường. Công suất tỏa nhiệt trung bình trên khung là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "B<sup>2</sup>*a<sup>4</sup>*w<sup>2</sup>/R",
+        "isCorrect": false
+      },
+      {
+        "2": "B<sup>2</sup>*a^<sup>4</sup>*w<sup>2</sup>/2R",
+        "isCorrect": true
+      },
+      {
+        "3": "B<sup>2</sup>*a<sup>2</sup>*w/R",
+        "isCorrect": false
+      },
+      {
+        "4": "0",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q104": {
+    "subj": "physics",
+    "diff": "vh",
+    "title": "Hệ số làm lạnh epsilon của chu trình Carnot nghịch đảo giữa \\(-3C\\) và \\(27C\\) là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "20%",
+        "isCorrect": false
+      },
+      {
+        "2": "9.0",
+        "isCorrect": true
+      },
+      {
+        "3": "0.1",
+        "isCorrect": false
+      },
+      {
+        "4": "8.0",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q105": {
+    "subj": "physics",
+    "diff": "vh",
+    "title": "Điện dung mới của tụ điện khi lấp đầy bằng hai lớp điện môi độ dày \\(\\frac{d}{2}\\) là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "2C*e<sub>1</sub>*e<sub>2</sub>/(e<sub>1</sub>+e<sub>2</sub>)",
+        "isCorrect": true
+      },
+      {
+        "2": "C(e<sub>1</sub>+e<sub>2</sub>)/2",
+        "isCorrect": false
+      },
+      {
+        "3": "C*√(e<sub>1</sub>*e<sub>2</sub>)",
+        "isCorrect": false
+      },
+      {
+        "4": "2C(e<sub>1</sub>+e<sub>2</sub>)",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q106": {
+    "subj": "chemistry",
+    "diff": "vh",
+    "title": "Hằng số cân bằng \\(K_P\\) của phản ứng \\(\\ce{PCl5 \\rightleftharpoons PCl3 + Cl2}\\). Độ điện li alpha xấp xỉ \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "0.42",
+        "isCorrect": false
+      },
+      {
+        "2": "0.59",
+        "isCorrect": true
+      },
+      {
+        "3": "0.71",
+        "isCorrect": false
+      },
+      {
+        "4": "0.35",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q107": {
+    "subj": "chemistry",
+    "diff": "vh",
+    "title": "Hợp chất X \\(\\ce{C8H8O2}\\) tác dụng với \\(\\ce{NaOH}\\) dư thu được 2 muối. X không tráng bạc. Có \\(\\ldots\\) cấu tạo thỏa yêu cầu.",
+    "options": [
+      {
+        "1": "2",
+        "isCorrect": false
+      },
+      {
+        "2": "3",
+        "isCorrect": false
+      },
+      {
+        "3": "4",
+        "isCorrect": true
+      },
+      {
+        "4": "6",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q108": {
+    "subj": "chemistry",
+    "diff": "vh",
+    "title": "Tổng số ion tạo ra khi hòa tan \\(1(mol)\\) phức \\(\\ce{[Co(NH3)5Cl]Cl2}\\) vào nước là \\(\\ldots\\)",
+    "options": [
+      {
+        "1": "2",
+        "isCorrect": false
+      },
+      {
+        "2": "3",
+        "isCorrect": true
+      },
+      {
+        "3": "4",
+        "isCorrect": false
+      },
+      {
+        "4": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q109": {
+    "subj": "chemistry",
+    "diff": "vh",
+    "title": "Phản ứng phân hủy \\(\\ce{N2O5}\\) bậc 1 có chu kỳ bán rã \\(5.7(h)\\). Thời gian để lượng 90% phân hủy là \\(\\ldots (h)\\)",
+    "options": [
+      {
+        "1": "11.4",
+        "isCorrect": false
+      },
+      {
+        "2": "17.1",
+        "isCorrect": false
+      },
+      {
+        "3": "18.9",
+        "isCorrect": true
+      },
+      {
+        "4": "22.8",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q110": {
+    "subj": "chemistry",
+    "diff": "h",
+    "title": "Nồng độ \\(\\ce{Ag+}\\) tự do trong dung dịch phức bạc amoniac (\\(\\ce{[Ag(NH3)2]OH}\\)) là \\(\\ldots (M)\\)",
+    "options": [
+      {
+        "1": "2.9*10<sup>-10</sup>",
+        "isCorrect": true
+      },
+      {
+        "2": "1.5*10<sup>-8</sup>",
+        "isCorrect": false
+      },
+      {
+        "3": "5.2*10<sup>-9</sup>",
+        "isCorrect": false
+      },
+      {
+        "4": "1.1*10<sup>-10</sup>",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q111": {
+    "subj": "math",
+    "diff": "m",
+    "title": "\\(\\left.\\frac{d}{dx}(2x^3-3x^2+x-2025)\\right|_{x=3}=\\ldots\\)",
+    "options": [
+      {
+        "1": "37",
+        "isCorrect": true
+      },
+      {
+        "2": "36",
+        "isCorrect": false
+      },
+      {
+        "3": "43",
+        "isCorrect": false
+      },
+      {
+        "4": "10",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q112": {
+    "subj": "math",
+    "diff": "ve",
+    "title": "Cho \\(\\triangle ABC\\). Tổng số đo các góc trong tam giác là \\(\\ldots\\) độ.",
+    "options": [
+      {
+        "1": "270",
+        "isCorrect": false
+      },
+      {
+        "2": "180",
+        "isCorrect": true
+      },
+      {
+        "3": "360",
+        "isCorrect": false
+      },
+      {
+        "4": "90",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q113": {
+    "subj": "english",
+    "diff": "ve",
+    "title": "\\(\\ldots\\)(v): to put or take food into the mouth, chew it, and swallow it.",
+    "options": [
+      {
+        "1": "Drink",
+        "isCorrect": false
+      },
+      {
+        "2": "Eat",
+        "isCorrect": true
+      },
+      {
+        "3": "Sleep",
+        "isCorrect": false
+      },
+      {
+        "4": "Cook",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q114": {
+    "subj": "english",
+    "diff": "ve",
+    "title": "\\(\\ldots\\)(v): to take a liquid into your mouth and swallow it.",
+    "options": [
+      {
+        "1": "Eat",
+        "isCorrect": false
+      },
+      {
+        "2": "Drink",
+        "isCorrect": true
+      },
+      {
+        "3": "Breathe",
+        "isCorrect": false
+      },
+      {
+        "4": "Sing",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q115": {
+    "subj": "english",
+    "diff": "ve",
+    "title": "\\(\\ldots\\)(v): to move immediately and quickly on your legs, faster than walking.",
+    "options": [
+      {
+        "1": "Jump",
+        "isCorrect": false
+      },
+      {
+        "2": "Walk",
+        "isCorrect": false
+      },
+      {
+        "3": "Run",
+        "isCorrect": true
+      },
+      {
+        "4": "Sit",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q116": {
+    "subj": "english",
+    "diff": "ve",
+    "title": "\\(\\ldots\\)(n): a person whose job is to teach in a school or college.",
+    "options": [
+      {
+        "1": "Doctor",
+        "isCorrect": false
+      },
+      {
+        "2": "Student",
+        "isCorrect": false
+      },
+      {
+        "3": "Teacher",
+        "isCorrect": true
+      },
+      {
+        "4": "Driver",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q117": {
+    "subj": "english",
+    "diff": "ve",
+    "title": "\\(\\ldots\\)(n): a set of pages that have been fastened together inside a cover to be read or written in.",
+    "options": [
+      {
+        "1": "Pen",
+        "isCorrect": false
+      },
+      {
+        "2": "Book",
+        "isCorrect": true
+      },
+      {
+        "3": "Table",
+        "isCorrect": false
+      },
+      {
+        "4": "Computer",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q118": {
+    "subj": "english",
+    "diff": "ve",
+    "title": "\\(\\ldots\\)(adj): feeling, showing, or causing pleasure or satisfaction.",
+    "options": [
+      {
+        "1": "Sad",
+        "isCorrect": false
+      },
+      {
+        "2": "Happy",
+        "isCorrect": true
+      },
+      {
+        "3": "Angry",
+        "isCorrect": false
+      },
+      {
+        "4": "Tired",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q119": {
+    "subj": "english",
+    "diff": "ve",
+    "title": "\\(\\ldots\\)(v): to be in the state of rest when your eyes are closed and your mind is unconscious.",
+    "options": [
+      {
+        "1": "Dream",
+        "isCorrect": false
+      },
+      {
+        "2": "Sleep",
+        "isCorrect": true
+      },
+      {
+        "3": "Wake",
+        "isCorrect": false
+      },
+      {
+        "4": "Work",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q120": {
+    "subj": "english",
+    "diff": "ve",
+    "title": "\\(\\ldots\\)(n): a place where children go to be educated.",
+    "options": [
+      {
+        "1": "Hospital",
+        "isCorrect": false
+      },
+      {
+        "2": "Park",
+        "isCorrect": false
+      },
+      {
+        "3": "School",
+        "isCorrect": true
+      },
+      {
+        "4": "Market",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q121": {
+    "subj": "english",
+    "diff": "ve",
+    "title": "\\(\\ldots\\)(adj): very attractive.",
+    "options": [
+      {
+        "1": "Ugly",
+        "isCorrect": false
+      },
+      {
+        "2": "Beautiful",
+        "isCorrect": true
+      },
+      {
+        "3": "Old",
+        "isCorrect": false
+      },
+      {
+        "4": "Small",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q122": {
+    "subj": "english",
+    "diff": "e",
+    "title": "\\(\\ldots\\)(n): an electronic machine that is used for storing, organizing, and finding words and numbers.",
+    "options": [
+      {
+        "1": "Radio",
+        "isCorrect": false
+      },
+      {
+        "2": "Phone",
+        "isCorrect": false
+      },
+      {
+        "3": "Computer",
+        "isCorrect": true
+      },
+      {
+        "4": "Television",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q123": {
+    "subj": "english",
+    "diff": "e",
+    "title": "\\(\\ldots\\)(n): a person who you know well and who you like a lot, but who is not a member of your family.",
+    "options": [
+      {
+        "1": "Enemy",
+        "isCorrect": false
+      },
+      {
+        "2": "Stranger",
+        "isCorrect": false
+      },
+      {
+        "3": "Friend",
+        "isCorrect": true
+      },
+      {
+        "4": "Neighbor",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q124": {
+    "subj": "english",
+    "diff": "ve",
+    "title": "\\(\\ldots\\)(n): a pattern of sounds made by instruments or by singing.",
+    "options": [
+      {
+        "1": "Noise",
+        "isCorrect": false
+      },
+      {
+        "2": "Music",
+        "isCorrect": true
+      },
+      {
+        "3": "Silence",
+        "isCorrect": false
+      },
+      {
+        "4": "Language",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q125": {
+    "subj": "english",
+    "diff": "e",
+    "title": "\\(\\ldots\\)(v): to make a journey, usually over a long distance.",
+    "options": [
+      {
+        "1": "Stay",
+        "isCorrect": false
+      },
+      {
+        "2": "Walk",
+        "isCorrect": false
+      },
+      {
+        "3": "Travel",
+        "isCorrect": true
+      },
+      {
+        "4": "Sleep",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q126": {
+    "subj": "english",
+    "diff": "ve",
+    "title": "\\(\\ldots\\)(v): to look at words and understand what they mean.",
+    "options": [
+      {
+        "1": "Write",
+        "isCorrect": false
+      },
+      {
+        "2": "Read",
+        "isCorrect": true
+      },
+      {
+        "3": "Speak",
+        "isCorrect": false
+      },
+      {
+        "4": "Listen",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q127": {
+    "subj": "english",
+    "diff": "e",
+    "title": "\\(\\ldots\\)(n): the conditions in the air at a particular time, such as it being hot, cold, or rainy.",
+    "options": [
+      {
+        "1": "Season",
+        "isCorrect": false
+      },
+      {
+        "2": "Nature",
+        "isCorrect": false
+      },
+      {
+        "3": "Weather",
+        "isCorrect": true
+      },
+      {
+        "4": "Environment",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q128": {
+    "subj": "english",
+    "diff": "ve",
+    "title": "\\(\\ldots\\)(v): to make letters or numbers on a surface, especially using a pen.",
+    "options": [
+      {
+        "1": "Paint",
+        "isCorrect": false
+      },
+      {
+        "2": "Write",
+        "isCorrect": true
+      },
+      {
+        "3": "Read",
+        "isCorrect": false
+      },
+      {
+        "4": "Draw",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q129": {
+    "subj": "english",
+    "diff": "ve",
+    "title": "\\(\\ldots\\)(n): a group of people who are related to each other, such as parents and children.",
+    "options": [
+      {
+        "1": "Team",
+        "isCorrect": false
+      },
+      {
+        "2": "Family",
+        "isCorrect": true
+      },
+      {
+        "3": "Club",
+        "isCorrect": false
+      },
+      {
+        "4": "Class",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q130": {
+    "subj": "english",
+    "diff": "e",
+    "title": "\\(\\ldots\\)(n): a piece of land next to a house, where flowers and other plants are grown.",
+    "options": [
+      {
+        "1": "Kitchen",
+        "isCorrect": false
+      },
+      {
+        "2": "Garden",
+        "isCorrect": true
+      },
+      {
+        "3": "Street",
+        "isCorrect": false
+      },
+      {
+        "4": "Balcony",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q131": {
+    "subj": "english",
+    "diff": "ve",
+    "title": "\\(\\ldots\\)(n): a living creature that is not a plant or person.",
+    "options": [
+      {
+        "1": "Human",
+        "isCorrect": false
+      },
+      {
+        "2": "Tree",
+        "isCorrect": false
+      },
+      {
+        "3": "Animal",
+        "isCorrect": true
+      },
+      {
+        "4": "Stone",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q132": {
+    "subj": "english",
+    "diff": "ve",
+    "title": "\\(\\ldots\\)(n): a large and important town.",
+    "options": [
+      {
+        "1": "Village",
+        "isCorrect": false
+      },
+      {
+        "2": "City",
+        "isCorrect": true
+      },
+      {
+        "3": "Farm",
+        "isCorrect": false
+      },
+      {
+        "4": "House",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q133": {
+    "subj": "english",
+    "diff": "e",
+    "title": "\\(\\ldots\\)(n): an area of land that has its own government and army.",
+    "options": [
+      {
+        "1": "Continent",
+        "isCorrect": false
+      },
+      {
+        "2": "Country",
+        "isCorrect": true
+      },
+      {
+        "3": "Island",
+        "isCorrect": false
+      },
+      {
+        "4": "Planet",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q134": {
+    "subj": "english",
+    "diff": "e",
+    "title": "\\(\\ldots\\)(n): a raised part of the earth's surface, much larger than a hill.",
+    "options": [
+      {
+        "1": "Valley",
+        "isCorrect": false
+      },
+      {
+        "2": "Ocean",
+        "isCorrect": false
+      },
+      {
+        "3": "Mountain",
+        "isCorrect": true
+      },
+      {
+        "4": "Beach",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q135": {
+    "subj": "english",
+    "diff": "e",
+    "title": "\\(\\ldots\\)(n): a very large area of sea.",
+    "options": [
+      {
+        "1": "Lake",
+        "isCorrect": false
+      },
+      {
+        "2": "River",
+        "isCorrect": false
+      },
+      {
+        "3": "Ocean",
+        "isCorrect": true
+      },
+      {
+        "4": "Pond",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q136": {
+    "subj": "english",
+    "diff": "m",
+    "title": "\\(\\ldots\\)(n): the study of the structure and behaviour of the physical world.",
+    "options": [
+      {
+        "1": "Art",
+        "isCorrect": false
+      },
+      {
+        "2": "History",
+        "isCorrect": false
+      },
+      {
+        "3": "Science",
+        "isCorrect": true
+      },
+      {
+        "4": "Music",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q137": {
+    "subj": "english",
+    "diff": "e",
+    "title": "\\(\\ldots\\)(n): the study of or a record of past events.",
+    "options": [
+      {
+        "1": "Future",
+        "isCorrect": false
+      },
+      {
+        "2": "History",
+        "isCorrect": true
+      },
+      {
+        "3": "News",
+        "isCorrect": false
+      },
+      {
+        "4": "Math",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q138": {
+    "subj": "english",
+    "diff": "e",
+    "title": "\\(\\ldots\\)(n): a system of communication consisting of sounds, words, and grammar.",
+    "options": [
+      {
+        "1": "Gesture",
+        "isCorrect": false
+      },
+      {
+        "2": "Code",
+        "isCorrect": false
+      },
+      {
+        "3": "Language",
+        "isCorrect": true
+      },
+      {
+        "4": "Signal",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q139": {
+    "subj": "english",
+    "diff": "e",
+    "title": "\\(\\ldots\\)(n): the condition of the body and the degree to which it is free from illness.",
+    "options": [
+      {
+        "1": "Wealth",
+        "isCorrect": false
+      },
+      {
+        "2": "Health",
+        "isCorrect": true
+      },
+      {
+        "3": "Strength",
+        "isCorrect": false
+      },
+      {
+        "4": "Beauty",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q140": {
+    "subj": "english",
+    "diff": "m",
+    "title": "\\(\\ldots\\)(n): the activity of buying and selling goods and services.",
+    "options": [
+      {
+        "1": "Hobby",
+        "isCorrect": false
+      },
+      {
+        "2": "Sport",
+        "isCorrect": false
+      },
+      {
+        "3": "Business",
+        "isCorrect": true
+      },
+      {
+        "4": "Education",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q141": {
+    "subj": "english",
+    "diff": "m",
+    "title": "\\(\\ldots\\)(n): the practical, especially industrial, use of scientific discoveries.",
+    "options": [
+      {
+        "1": "Magic",
+        "isCorrect": false
+      },
+      {
+        "2": "Technology",
+        "isCorrect": true
+      },
+      {
+        "3": "Tradition",
+        "isCorrect": false
+      },
+      {
+        "4": "Fiction",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q142": {
+    "subj": "english",
+    "diff": "ve",
+    "title": "\\(\\ldots\\)(adv): at a fast speed.",
+    "options": [
+      {
+        "1": "Slowly",
+        "isCorrect": false
+      },
+      {
+        "2": "Quickly",
+        "isCorrect": true
+      },
+      {
+        "3": "Carefully",
+        "isCorrect": false
+      },
+      {
+        "4": "Quietly",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q143": {
+    "subj": "english",
+    "diff": "h",
+    "title": "\\(\\ldots\\)(adj): very careful and with great attention to every detail.",
+    "options": [
+      {
+        "1": "Careless",
+        "isCorrect": false
+      },
+      {
+        "2": "Meticulous",
+        "isCorrect": true
+      },
+      {
+        "3": "Casual",
+        "isCorrect": false
+      },
+      {
+        "4": "Negligent",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q144": {
+    "subj": "english",
+    "diff": "h",
+    "title": "\\(\\ldots\\)(adj): having or expressing more than one possible meaning, sometimes intentionally.",
+    "options": [
+      {
+        "1": "Clear",
+        "isCorrect": false
+      },
+      {
+        "2": "Explicit",
+        "isCorrect": false
+      },
+      {
+        "3": "Ambiguous",
+        "isCorrect": true
+      },
+      {
+        "4": "Definite",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q145": {
+    "subj": "english",
+    "diff": "h",
+    "title": "\\(\\ldots\\)(adj): solving problems in a sensible way that suits the conditions that really exist.",
+    "options": [
+      {
+        "1": "Idealistic",
+        "isCorrect": false
+      },
+      {
+        "2": "Pragmatic",
+        "isCorrect": true
+      },
+      {
+        "3": "Unrealistic",
+        "isCorrect": false
+      },
+      {
+        "4": "Dreamy",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q146": {
+    "subj": "english",
+    "diff": "h",
+    "title": "\\(\\ldots\\)(v): to hold or keep something in your possession or use.",
+    "options": [
+      {
+        "1": "Release",
+        "isCorrect": false
+      },
+      {
+        "2": "Lose",
+        "isCorrect": false
+      },
+      {
+        "3": "Retain",
+        "isCorrect": true
+      },
+      {
+        "4": "Discard",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q147": {
+    "subj": "english",
+    "diff": "h",
+    "title": "\\(\\ldots\\)(v): to make something bad less severe.",
+    "options": [
+      {
+        "1": "Aggravate",
+        "isCorrect": false
+      },
+      {
+        "2": "Mitigate",
+        "isCorrect": true
+      },
+      {
+        "3": "Intensify",
+        "isCorrect": false
+      },
+      {
+        "4": "Worsen",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q148": {
+    "subj": "english",
+    "diff": "vh",
+    "title": "\\(\\ldots\\)(adj): seeming to be everywhere.",
+    "options": [
+      {
+        "1": "Rare",
+        "isCorrect": false
+      },
+      {
+        "2": "Scarce",
+        "isCorrect": false
+      },
+      {
+        "3": "Unique",
+        "isCorrect": false
+      },
+      {
+        "4": "Ubiquitous",
+        "isCorrect": true
+      }
+    ]
+  },
+  "q149": {
+    "subj": "english",
+    "diff": "vh",
+    "title": "\\(\\ldots\\)(adj): lasting for only a short time.",
+    "options": [
+      {
+        "1": "Permanent",
+        "isCorrect": false
+      },
+      {
+        "2": "Enduring",
+        "isCorrect": false
+      },
+      {
+        "3": "Ephemeral",
+        "isCorrect": true
+      },
+      {
+        "4": "Eternal",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q150": {
+    "subj": "english",
+    "diff": "vh",
+    "title": "\\(\\ldots\\)(adj): giving too much attention to small details and wanting everything to be perfect.",
+    "options": [
+      {
+        "1": "Easy-going",
+        "isCorrect": false
+      },
+      {
+        "2": "Flexible",
+        "isCorrect": false
+      },
+      {
+        "3": "Careless",
+        "isCorrect": false
+      },
+      {
+        "4": "Fastidious",
+        "isCorrect": true
+      }
+    ]
+  },
+  "q151": {
+    "subj": "english",
+    "diff": "vh",
+    "title": "\\(\\ldots\\)(n): a very typical example of something.",
+    "options": [
+      {
+        "1": "Exception",
+        "isCorrect": false
+      },
+      {
+        "2": "Paradigm",
+        "isCorrect": true
+      },
+      {
+        "3": "Anomaly",
+        "isCorrect": false
+      },
+      {
+        "4": "Deviation",
+        "isCorrect": false
+      }
+    ]
+  },
+  "q152": {
+    "subj": "english",
+    "diff": "vh",
+    "title": "\\(\\ldots\\)(adj): (of a person) tending to talk a great deal; talkative.",
+    "options": [
+      {
+        "1": "Silent",
+        "isCorrect": false
+      },
+      {
+        "2": "Quiet",
+        "isCorrect": false
+      },
+      {
+        "3": "Loquacious",
+        "isCorrect": true
+      },
+      {
+        "4": "Reserved",
+        "isCorrect": false
+      }
+    ]
+  }
+}
