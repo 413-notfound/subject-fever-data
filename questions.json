@@ -55,7 +55,7 @@
         "isCorrect": true
       },
       {
-        "2": "x^3",
+        "2": "x<sup>3</sup>",
         "isCorrect": false
       },
       {
@@ -2071,7 +2071,7 @@
   },
   "q91": {
     "subj": "chemistry",
-    "diff": "h",
+    "diff": "m",
     "title": "Amino acid đơn giản nhất là \\(\\ldots\\)",
     "options": [
       {
@@ -3495,4 +3495,5 @@
       }
     ]
   }
+
 }
