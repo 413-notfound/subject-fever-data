@@ -1175,7 +1175,7 @@
   "q52": {
     "subj": "physics",
     "diff": "h",
-    "title": "Quang phổ liên tục phụ thuộc vào \\(\\ldots\\) (Cho \\(m\\) là khối lượng vật phát quang, \\(T\\) là nhiệt độ vật phát quang, \\(V\\) là thể tích vật phát quang, \\(S\\) là kích thước vật phát quang).",
+    "title": "Quang phổ liên tục phụ thuộc vào \\(\\ldots\\) (Cho \\(m\\) là khối lượng vật, \\(T\\) là nhiệt độ vật, \\(V\\) là thể tích vật, \\(S\\) là kích thước vật).",
     "options": [
       {
         "1": "m",
@@ -3497,3 +3497,4 @@
   }
 
 }
+
