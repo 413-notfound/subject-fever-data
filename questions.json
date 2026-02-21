@@ -1658,7 +1658,7 @@
   "q73": {
     "subj": "chemistry",
     "diff": "e",
-    "title": "Khí \\(ldots\\) làm đục nước vôi trong.",
+    "title": "Khí \\(\\ldots\\) làm đục nước vôi trong.",
     "options": [
       {
         "1": "O<sub>2</sub>",
@@ -3497,4 +3497,5 @@
   }
 
 }
+
 
