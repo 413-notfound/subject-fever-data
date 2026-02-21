@@ -2355,7 +2355,7 @@
         "isCorrect": false
       },
       {
-        "2": "B<sup>2</sup>*a^<sup>4</sup>*w<sup>2</sup>/2R",
+        "2": "B<sup>2</sup>*a<sup>4</sup>*w<sup>2</sup>/2R",
         "isCorrect": true
       },
       {
@@ -3497,5 +3497,6 @@
   }
 
 }
+
 
 
