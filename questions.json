@@ -1109,19 +1109,19 @@
     "title": "Ký hiệu của hằng số điện môi là \\(\\ldots\\)",
     "options": [
       {
-        "1": "epsilon",
+        "1": "ε",
         "isCorrect": true
       },
       {
-        "2": "mu",
+        "2": "μ",
         "isCorrect": false
       },
       {
-        "3": "lambda",
+        "3": "λ",
         "isCorrect": false
       },
       {
-        "4": "phi",
+        "4": "φ",
         "isCorrect": false
       }
     ]
@@ -3497,6 +3497,7 @@
   }
 
 }
+
 
 
 
