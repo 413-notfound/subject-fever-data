@@ -97,19 +97,19 @@
     "title": "Diện tích hình tròn bán kính \\(r\\) là \\(\\ldots\\)",
     "options": [
       {
-        "1": "pi*r<sup>2</sup>",
+        "1": "π*r<sup>2</sup>",
         "isCorrect": true
       },
       {
-        "2": "2*pi*r",
+        "2": "2*π*r",
         "isCorrect": false
       },
       {
-        "3": "pi*d",
+        "3": "π*d",
         "isCorrect": false
       },
       {
-        "4": "4/3*pi*r<sup>2</sup>",
+        "4": "4/3*π*r<sup>2</sup>",
         "isCorrect": false
       }
     ]
@@ -151,11 +151,11 @@
         "isCorrect": true
       },
       {
-        "3": "pi/6",
+        "3": "π/6",
         "isCorrect": false
       },
       {
-        "4": "pi/2",
+        "4": "π/2",
         "isCorrect": false
       }
     ]
@@ -396,7 +396,7 @@
     "title": "Số \\(\\ldots\\) là số hữu tỉ.",
     "options": [
       {
-        "1": "pi",
+        "1": "π",
         "isCorrect": false
       },
       {
@@ -1278,11 +1278,11 @@
         "isCorrect": true
       },
       {
-        "3": "cos(omega*t)",
+        "3": "cos(ω*t)",
         "isCorrect": false
       },
       {
-        "4": "omega*r",
+        "4": "ω*r",
         "isCorrect": false
       }
     ]
@@ -2190,19 +2190,19 @@
     "title": "Giá trị của tích phân \\(I=\\int_0^\\pi \\frac{xsin(x)}{1+cos^2(x)}\\) là \\(\\ldots\\)",
     "options": [
       {
-        "1": "pi<sup>2</sup>/2",
+        "1": "π<sup>2</sup>/2",
         "isCorrect": false
       },
       {
-        "2": "pi<sup>2</sup>/4",
+        "2": "π<sup>2</sup>/4",
         "isCorrect": true
       },
       {
-        "3": "pi/4",
+        "3": "π/4",
         "isCorrect": false
       },
       {
-        "4": "pi<sup>2</sup>",
+        "4": "π<sup>2</sup>",
         "isCorrect": false
       }
     ]
@@ -3497,6 +3497,7 @@
   }
 
 }
+
 
 
 
