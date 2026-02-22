@@ -1362,19 +1362,19 @@
     "title": "Tia \\(\\ldots\\) có khả năng đâm xuyên mạnh nhất.",
     "options": [
       {
-        "1": "Alpha",
+        "1": "α",
         "isCorrect": false
       },
       {
-        "2": "Beta",
+        "2": "β",
         "isCorrect": false
       },
       {
-        "3": "Gamma",
+        "3": "γ",
         "isCorrect": true
       },
       {
-        "4": "Delta",
+        "4": "δ",
         "isCorrect": false
       }
     ]
@@ -3497,6 +3497,7 @@
   }
 
 }
+
 
 
 
