@@ -9,16 +9,16 @@
         "isCorrect": true
       },
       {
-        "2": "0",
-        "isCorrect": false
+        "2": "3",
+        "isCorrect": true
       },
       {
-        "3": "0",
-        "isCorrect": false
+        "3": "3",
+        "isCorrect": true
       },
       {
-        "4": "0",
-        "isCorrect": false
+        "4": "3",
+        "isCorrect": true
       }
     ]
   },
@@ -28,16 +28,16 @@
     "title": "Đơn vị của khối lượng là \\(\\ldots\\)",
     "options": [
       {
-        "1": "0",
-        "isCorrect": false
+        "1": "g",
+        "isCorrect": true
       },
       {
-        "2": "0",
-        "isCorrect": false
+        "2": "g",
+        "isCorrect": true
       },
       {
-        "3": "0",
-        "isCorrect": false
+        "3": "g",
+        "isCorrect": true
       },
       {
         "4": "g",
@@ -51,20 +51,20 @@
     "title": "\\(\\ce{CH4+aO2->[t^\\circ]CO2+2H2O}\\Rightarrow a=\\ldots\\)",
     "options": [
       {
-        "1": "0",
-        "isCorrect": false
+        "1": "2",
+        "isCorrect": true
       },
       {
-        "2": "0",
-        "isCorrect": false
+        "2": "2",
+        "isCorrect": true
       },
       {
         "3": "2",
         "isCorrect": true
       },
       {
-        "4": "0",
-        "isCorrect": false
+        "4": "2",
+        "isCorrect": true
       }
     ]
   },
@@ -74,20 +74,20 @@
     "title": "\\(\\ldots\\) is the first letter of the English alphabet.",
     "options": [
       {
-        "1": "0",
-        "isCorrect": false
+        "1": "A",
+        "isCorrect": true
       },
       {
-        "2": "0",
-        "isCorrect": false
+        "2": "A",
+        "isCorrect": true
       },
       {
         "3": "A",
         "isCorrect": true
       },
       {
-        "4": "0",
-        "isCorrect": false
+        "4": "A",
+        "isCorrect": true
       }
     ]
   },
@@ -143,21 +143,22 @@
     "title": "Xác nhận hoàn tất hướng dẫn.",
     "options": [
       {
-        "1": "Có",
+        "1": "Không",
         "isCorrect": false
       },
       {
-        "2": "CÓ",
+        "2": "không",
         "isCorrect": false
       },
       {
-        "3": "có",
+        "3": "Hông",
         "isCorrect": false
       },
       {
-        "4": "cÓ",
+        "4": "hông",
         "isCorrect": false
       }
     ]
   }
+
 }
