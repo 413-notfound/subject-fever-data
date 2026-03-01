@@ -278,7 +278,7 @@
   "q13": {
     "subj": "math",
     "diff": "m",
-    "title": "\\(\\frac{d}{dx}(sin\\(x\\))=\\ldots\\)",
+    "title": "\\(\\frac{d}{dx}(sin(x))=\\ldots\\)",
     "options": [
       {
         "1": "cos(x)",
@@ -3497,6 +3497,7 @@
   }
 
 }
+
 
 
 
