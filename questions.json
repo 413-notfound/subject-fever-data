@@ -282,11 +282,11 @@
     "options": [
       {
         "1": "cos(x)",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "2": "-cos(x)",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "3": "tan(x)",
@@ -3497,6 +3497,7 @@
   }
 
 }
+
 
 
 
