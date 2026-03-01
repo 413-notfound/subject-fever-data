@@ -278,15 +278,15 @@
   "q13": {
     "subj": "math",
     "diff": "m",
-    "title": "\\(\\frac{d}{dx}(x^2)=\\ldots\\)",
+    "title": "\\(\\frac{d}{dx}(sin\\(x\\))=\\ldots\\)",
     "options": [
       {
         "1": "cos(x)",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "2": "-cos(x)",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "3": "tan(x)",
@@ -3497,6 +3497,7 @@
   }
 
 }
+
 
 
 
