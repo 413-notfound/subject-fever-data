@@ -39,7 +39,7 @@
     "des":"Không nhận bất kì sát thương nào trong 5 phút.",
     "stat":false
   },
-  "unbeliveMatch":{
+  "unbelieveMatch":{
     "title":"Trận đấu ngoài sức tưởng tượng",
     "des":"Hoàn thành bất kì chế độ chơi nào ở CHẾ ĐỘ KHÓ.",
     "stat":false
@@ -50,4 +50,5 @@
     "stat":false
   }
 }
+
 
