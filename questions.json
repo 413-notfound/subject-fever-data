@@ -1619,7 +1619,7 @@
         "isCorrect": false
       },
       {
-        "2": "RCl, H<sub>2</sub>O",
+        "2": "RCl<sub>n</sub>, H<sub>2</sub>O",
         "isCorrect": true
       },
       {
@@ -3497,6 +3497,7 @@
   }
 
 }
+
 
 
 
